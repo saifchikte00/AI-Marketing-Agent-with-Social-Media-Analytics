@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+textblob
+sqlite3
+google-generativeai
+python-dotenv
